@@ -1,0 +1,7 @@
+{
+  "charges": [
+    { "externalId": "ch_1001", "amount": 12990, "currency": "BRL", "status": "paid", "createdAt": "2025-12-01T10:00:00Z" },
+    { "externalId": "ch_1002", "amount": 5990, "currency": "BRL", "status": "pending", "createdAt": "2025-12-02T15:30:00Z" },
+    { "externalId": "ch_1003", "amount": 25990, "currency": "BRL", "status": "failed", "createdAt": "2025-12-03T09:15:00Z" }
+  ]
+}
